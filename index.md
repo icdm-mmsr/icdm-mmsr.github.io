@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MMSR ‘25
-subtitle: Workshop on Multimodal Search and Recommendations
+title: Workshop on Multimodal Search and Recommendations
+subtitle: MMSR ‘25
 ---
 
 ## Overview
@@ -18,43 +18,57 @@ All deadlines are at 23: 59 P.M. [GMT](https://www.worldtimeserver.com/time-zone
 | Task                                                                                             | Deadline               |
 | ------------------------------------------------------------------------------------------------ | ---------------------- |
 | **[Paper submission deadline](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php)** | **September 1, 2025**    |
-| **Notification of acceptance**                                                                   | **October 1, 2025**    |
-| **Camera Ready Version of Papers Due**                       | **October 12, 2025** |
-| MMSR '25 Workshop                                                                       | **November 12, 2025**   |
+| Notification of acceptance                                                                   | October 1, 2025    |
+| Camera Ready Version of Papers Due                       | October 12, 2025 |
+| MMSR '25 Workshop                                                                       | November 12, 2025   |
 
 ## Call for Papers
 
-### Theme: From Data to Discovery - Using Multimodal Models for Smarter Search and Recommendations
-
-#### Topics
-
 Topics of interest include, but are not limited to:
 
-1. **Cross-modal retrieval techniques**
+1. **From Data to Discovery: Using Multimodal Models for Smarter Search and Recommendations (2025 Special Theme)**
+   1. Strategies for building scalable multimodal discovery engines.
+   2. Lessons learned from productionizing MMSR models in real-world applications.
+   3. Handling discovery in cold-start scenarios and sparse multimodal data settings.
+   4. Balancing discovery and relevance in multimodal recommendation systems.
+   5. Evaluating business impact and user satisfaction of multimodal discovery systems.
+   6. Emerging trends in using LLMs for multimodal data exploration and discovery.
+   7. Personalization strategies tailored to multimodal discovery journeys.
+   8. Bridging research and practical deployment: overcoming challenges in scaling multimodal models for search and recommendation.
+2. **Cross-modal retrieval techniques**
    1. Efficiently indexing and retrieving multimodal data.
    2. Handling large-scale cross-modal data.
    3. Developing metrics to measure similarity across different modalities.
-2. **Applications of MMSR to Verticals** (e.g., E-commerce)
-   1. Optimizing image-based product searches.
-   2. Creating multimodal conversational systems to make search more accessible.
-   3. Utilizing AR to enhance user interaction.
-   4. Leveraging multimodal search for efficient customer service and support.
-3. **User-centric design principles for MMSR interfaces**
+   4. Zero-shot and few-shot retrieval across unseen modalities.
+   5. Adapting retrieval architectures (e.g., dual encoders vs. fusion models) for different multimodal tasks.
+3. **Applications of MMSR to Verticals** (e.g., E-commerce, Healthcare, Real Estate)
+   1. MMSR for image-based product search in e-commerce.
+   2. Multimodal conversational agents for healthcare, legal, and retail industries.
+   3. Augmented reality (AR) and multimodal discovery for shopping experiences.
+   4. Customer service optimization through multimodal search interfaces (e.g., support chat, help centers).
+   5. Personalized multimodal travel planning and recommendation systems.
+   6. Video+text based multimodal recommendations in media and entertainment domains.
+4. **User-centric design principles for MMSR interfaces**
    1. Designing user-friendly interfaces that support multimodal search.
    2. Methods for evaluating the usability of MMSR systems.
    3. Ensuring MMSR interfaces are accessible to users with disabilities.
-4. **Ethical and Privacy Considerations of MMSR**
+   4. Visualizations and interactive feedback mechanisms for multimodal search refinement.
+   5. A/B testing strategies specific to multimodal search UI/UX improvements.
+5. **Ethical and Privacy Considerations of MMSR**
    1. Identifying and mitigating biases in multimodal algorithms.
    2. Ensuring transparency in how multimodal results are generated and presented.
    3. Approaches for obtaining and managing user consent for using user data.
-5. **Modeling for MMSR**
+   4. User perception studies of trust and explainability in multimodal search systems.
+   5. Privacy-preserving multimodal modeling: federated learning and differential privacy for MMSR.
+6. **Modeling for MMSR**
    1. Multi-modal representation learning.
    2. Utilizing pre-trained multimodal LLMs.
    3. Dimensionality reduction techniques to manage multimodal complexity.
    4. Fine-tuning pre-trained vision-language models.
    5. Developing and standardizing metrics to evaluate the performance of MMSR models.
+   6. Alignment challenges in multimodal embeddings across diverse modalities.
 
-### Submission Instructions
+#### Submission Instructions
 
 Papers must be formatted and written according to the Submission Guidelines on the [ICDM 2025 conference web site](https://www3.cs.stonybrook.edu/~icdm2025/). You are strongly encouraged to print and double check your PDF file before its submission, especially if your paper contains Asian/European language symbols (such as Chinese/Korean characters or English letters with European fonts).
 
