@@ -81,32 +81,30 @@ Papers must be formatted and written according to the Submission Guidelines on t
 ## Organizers
 
 <div style="margin-top: 2rem;display: flex; flex-wrap: wrap; gap: 1rem;">
+  
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="assets/img/aditya.jpg" alt="Aditya Chichani" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
+    <img src="assets/img/aditya.jpg" alt="Aditya Chichani" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 1rem;">
     <strong><a href="https://www.linkedin.com/in/aditya-chichani/" style="text-decoration: none;color: black;">Aditya Chichani</a></strong>
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="assets/img/surya.png" alt="Surya Kallumadi" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
+    <img src="assets/img/surya.png" alt="Surya Kallumadi" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 1rem;">
     <strong><a href="https://www.linkedin.com/in/surya-kallumadi-a0778a13/" style="text-decoration: none;color: black;">Surya Kallumadi</a></strong>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="assets/img/tracy.jpeg" alt="Tracy Holloway King" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
-    <strong>
-    <a href="https://www.linkedin.com/in/tracyhollowayking/" style="text-decoration: none;color: black;">Tracy Holloway King</a>
-    </strong>
+    <img src="assets/img/tracy.jpeg" alt="Tracy Holloway King" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 1rem;">
+    <strong><a href="https://www.linkedin.com/in/tracyhollowayking/" style="text-decoration: none;color: black;">Tracy Holloway King</a></strong>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="assets/img/yubin.jpeg" alt="Yubin Kim" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
-    <strong>
-    <a href="https://www.linkedin.com/in/yubink" style="text-decoration: none;color: black;">Yubin Kim</a>
-    </strong>
+    <img src="assets/img/yubin.jpeg" alt="Yubin Kim" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 1rem;">
+    <strong><a href="https://www.linkedin.com/in/yubink" style="text-decoration: none;color: black;">Yubin Kim</a></strong>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="assets/img/andrei.jpeg" alt="Andrei Lopatenko" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
+    <img src="assets/img/andrei.jpeg" alt="Andrei Lopatenko" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 1rem;">
     <strong><a href="https://www.linkedin.com/in/lopatenko/" style="text-decoration: none;color: black;">Andrei Lopatenko</a></strong>
   </div>
+
 </div>
