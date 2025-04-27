@@ -9,10 +9,8 @@ author: For queries, please reach out to aditya_chichani@berkeley.edu
 
 navbar-links:
   Home: "index"
-  Schedule: "index#schedule"
-  Call for Papers: "cfp"
-  Accepted Papers: "accepted"
   Organizers: "organizers"
+  MMSR'24: "https://cikm-mmsr.github.io/"
 
 ################
 # --- Logo --- #
