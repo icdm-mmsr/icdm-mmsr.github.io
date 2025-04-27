@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshop on Multimodal Search and Recommendations
-subtitle: MMSR ‘25
+title: ICDM MMSR ‘25
+subtitle: Workshop on Multimodal Search and Recommendations
 ---
 
 ## Overview
@@ -15,12 +15,12 @@ MMSR will be a **half-day** workshop at [ICDM 2025](https://www3.cs.stonybrook.e
 {: .box-note}
 All deadlines are at 23: 59 P.M. [GMT](https://www.worldtimeserver.com/time-zones/gmt/)
 
-| Task                                                                                             | Deadline               |
-| ------------------------------------------------------------------------------------------------ | ---------------------- |
-| **[Paper submission deadline](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php)** | **September 1, 2025**    |
-| Notification of acceptance                                                                   | October 1, 2025    |
-| Camera Ready Version of Papers Due                       | October 12, 2025 |
-| MMSR '25 Workshop                                                                       | November 12, 2025   |
+| Task                                                                                                                                                                          | Deadline              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| **[Paper submission deadline](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php)** | **September 1, 2025** |
+| Notification of acceptance                                                                                                                                                    | October 1, 2025       |
+| Camera Ready Version of Papers Due                                                                                                                                            | October 12, 2025      |
+| MMSR '25 Workshop                                                                                                                                                             | November 12, 2025     |
 
 ## Call for Papers
 
@@ -77,7 +77,6 @@ Papers must be formatted and written according to the Submission Guidelines on t
 - All accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
 
 - Non-archival submissions are not allowed, i.e., all accepted papers will be included and published in the proceedings.
-
 
 ## Organizers
 

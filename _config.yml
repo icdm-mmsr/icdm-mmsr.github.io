@@ -6,11 +6,12 @@ author: For queries, please reach out to aditya_chichani@berkeley.edu
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-
 navbar-links:
   Home: "index"
   Organizers: "organizers"
-  MMSR'24: "https://cikm-mmsr.github.io/"
+  MMSR'24:
+    url: "https://cikm-mmsr.github.io/"
+    external: true
 
 ################
 # --- Logo --- #
