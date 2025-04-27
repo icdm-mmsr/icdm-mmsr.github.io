@@ -10,7 +10,7 @@ navbar-links:
   Home: "index"
   Organizers: "organizers"
   MMSR'24:
-    url: 
+    url: "https://cikm-mmsr.github.io/"
     external: true
 
 ################
