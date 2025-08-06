@@ -74,9 +74,9 @@ All papers will be peer reviewed (single-blind) by the program committee and jud
 
 - Long papers: 6-8 pages excluding references
 - Short papers: 3-5 pages excluding references
-- Submissions should be in IEEE 2-column conference format (https://www.ieee.org/conferences/publishing/templates.html)
+- Submissions should be in IEEE 2-column conference format ([https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html))
 
-**Submissions to MMSR '25 should be made through the workshop's submission portal**: https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php
+**Submissions to MMSR '25 should be made through the workshop's submission portal**: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php)
 
 - Please note that at least one author of each accepted paper must register for the workshop.
 
