@@ -15,12 +15,12 @@ MMSR will be a **half-day** workshop at [ICDM 2025](https://www3.cs.stonybrook.e
 {: .box-note}
 All deadlines are at 23: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zones/aoe/)
 
-| Task                                                                                                                                                                          | Deadline              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| **[Paper submission deadline](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php)** | **September 1, 2025** |
-| Notification of acceptance                                                                                                                                                    | September 15, 2025    |
-| Camera Ready Version of Papers Due                                                                                                                                            | September 25, 2025    |
-| MMSR '25 Workshop                                                                                                                                                             | November 12, 2025     |
+| Task                                                                                                      | Deadline              |
+| --------------------------------------------------------------------------------------------------------- | --------------------- |
+| **[Paper submission deadline](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25)** | **September 1, 2025** |
+| Notification of acceptance                                                                                | September 15, 2025    |
+| Camera Ready Version of Papers Due                                                                        | September 25, 2025    |
+| MMSR '25 Workshop                                                                                         | November 12, 2025     |
 
 ## Call for Papers
 
@@ -76,12 +76,10 @@ All papers will be peer reviewed (single-blind) by the program committee and jud
 - Short papers: 3-5 pages excluding references
 - Submissions should be in IEEE 2-column conference format ([https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html))
 
-**Submissions to MMSR '25 should be made through the workshop's submission portal**: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php)
+**Submissions to MMSR '25 should be made through the workshop's submission portal**: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25)
 
 - Please note that at least one author of each accepted paper must register for the workshop.
-
 - All accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
-
 - Non-archival submissions are not allowed, i.e., all accepted papers will be included and published in the proceedings.
 
 ## Organizers
