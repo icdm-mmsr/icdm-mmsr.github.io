@@ -8,6 +8,7 @@ author: For queries, please reach out to icdm-mmsr-organizers@googlegroups.com
 ###############################################
 navbar-links:
   Home: "index"
+  Accepted Papers: "accepted"
   Organizers: "organizers"
   MMSR'24:
     url: "https://cikm-mmsr.github.io/"
