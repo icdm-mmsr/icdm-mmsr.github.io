@@ -17,70 +17,54 @@ All deadlines are at 23: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zone
 
 | Task                                                                                                      | Deadline              |
 | --------------------------------------------------------------------------------------------------------- | --------------------- |
-| **[Paper submission deadline](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25)** | **September 1, 2025** |
+| [Paper submission deadline](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25) | September 1, 2025 |
 | Notification of acceptance                                                                                | September 15, 2025    |
 | Camera Ready Version of Papers Due                                                                        | September 25, 2025    |
-| MMSR '25 Workshop                                                                                         | November 12, 2025     |
+| **MMSR '25 Workshop**                                                                                         | **November 12, 2025 8.30 AM EST - 12.30 PM EST**     |
 
-## Call for Papers
+## Schedule
 
-Topics of interest include, but are not limited to:
+| Time | Session Details |
+| ---- | ---------------- |
+| 8:30 - 8:35 | **Opening Remarks**<br>Welcome to ISIR-eCom & MMSR |
+| 8:35 - 8:45 | **Virtual Talk 1: UNION: A Lightweight Target Representation for Efficient Image-Guided Retrieval with Optional Textual Queries**<br>Authors: Hoang-Bao Le, Allie Tran, Binh T. Nguyen, Liting Zhou, Cathal Gurrin |
+| 8:45 - 8:55 | **Virtual Talk 2: NoiseStat: A Lightweight Diagnostic Framework for Retrieval Robustness under Noise**<br>Authors: Bodhisatta Maiti, Debshree Chowdhury |
+| 8:55 - 9:05 | **Virtual Talk 3: Enhancing Product Recommendations with Multi-Modal LLMs**<br>Authors: Babaniyi Olaniyi |
+| 9:05 - 9:15 | **Virtual Talk 4: Query Attribute Modeling: Improving Search Relevance with Semantic Search and Meta Data Filtering**<br>Authors: Karthik Menon, Batool Arhamna Haider, Muhammad Arham, Kanwal Mehreen, Ram Mohan Rao Kadiyala, Muhammad Ali Shafique, Hamza Farooq |
+| 9:15 - 9:30 | **Contributed Talk 1: Will It Zero-Shot?: Predicting Zero-Shot Classification Performance For Arbitrary Queries**<br>Authors: Kevin Robbins, Xiaotong Liu, Yu Wu, Grady McPeak, Le Sun, Abby Stylianou, Robert Pless |
+| 9:30 - 9:45 | **Contributed Talk 2: FUSE: Failure-aware Usage of Subagent Evidence for MultiModal Search and Recommendation**<br>Authors: Tushar Vatsa, Vibha Belavadi, Priya Shanmugasundaram, Suhas Suresha, Dewang Sultania |
+| 9:45 - 10:00 | **Contributed Talk 3: PMMR: Query-Adaptive Geo-Personalized Multimodal Ranking for Creative Search at Scale**<br>Authors: Liping Zhang, Tracy King, Ravindra Sadaphule, Jayant Kumar |
+| 10:00 - 10:30 | **Coffee Break** |
+| 10:30 - 11:15 | **Invited Talk: Revisiting Composite Item Retrieval in the Era of Large Language Models: Challenges and Opportunities**<br>Speaker: Prof. Senjuti Basu Roy<br><br>This talk revisits the emerging problem of composite item retrieval - retrieving meaningful combinations of items rather than single entities - and how it redefines similarity through set-level reasoning to evaluate how items work together. Prof. Basu Roy will explore how large language models (LLMs) enable intelligent, context-aware product search that captures compatibility, complementarity, and user intent beyond traditional top-k scoring. The talk also addresses challenges such as LLM cost, latency, and interpretability, and highlights opportunities for adaptive, explainable, and human-aligned retrieval frameworks for next-generation e-commerce systems. |
+| 11:15 - 11:30 | **Contributed Talk 4: Scaling Multimodal Search and Recommendation with Small Language Models via Upside-Down Reinforcement Learning**<br>Authors: Yu-Chen Lin, Sanat Sharma, Hari Manikandan, Jayant Kumar, Tracy King, Jing Zheng |
+| 11:30 - 11:45 | **Contributed Talk 5: CTMR: Cohort-Aware Transformer Multi-Objective Ranker for Personalized, Debiased, and Diversity-Aware Product Search**<br>Authors: Liping Zhang |
+| 11:45 - 12:30 | **Invited Talk: On the Intersection of Language and Graph Models**<br>Speaker: Prof. Chuxu Zhang<br><br>AI is undergoing a transformative shift with the rise of powerful models such as large language models and graph neural networks. In this talk, Prof. Zhang presents research at the intersection of these two paradigms, illustrating how they can complement and enhance one another. He also discusses how their synergy enables advances in information retrieval and NLP tasks, including question answering, recommender systems, and advanced reasoning. |
+| 12:30 | **Closing Notes** |
 
-1. **From Data to Discovery: Using Multimodal Models for Smarter Search and Recommendations (2025 Special Theme)**
-   1. Strategies for building scalable multimodal discovery engines.
-   2. Lessons learned from productionizing MMSR models in real-world applications.
-   3. Handling discovery in cold-start scenarios and sparse multimodal data settings.
-   4. Balancing discovery and relevance in multimodal recommendation systems.
-   5. Evaluating business impact and user satisfaction of multimodal discovery systems.
-   6. Emerging trends in using LLMs for multimodal data exploration and discovery.
-   7. Personalization strategies tailored to multimodal discovery journeys.
-   8. Bridging research and practical deployment: overcoming challenges in scaling multimodal models for search and recommendation.
-2. **Cross-modal retrieval techniques**
-   1. Efficiently indexing and retrieving multimodal data.
-   2. Handling large-scale cross-modal data.
-   3. Developing metrics to measure similarity across different modalities.
-   4. Zero-shot and few-shot retrieval across unseen modalities.
-   5. Adapting retrieval architectures (e.g., dual encoders vs. fusion models) for different multimodal tasks.
-3. **Applications of MMSR to Verticals** (e.g., E-commerce, Healthcare, Real Estate)
-   1. MMSR for image-based product search in e-commerce.
-   2. Multimodal conversational agents for healthcare, legal, and retail industries.
-   3. Augmented reality (AR) and multimodal discovery for shopping experiences.
-   4. Customer service optimization through multimodal search interfaces (e.g., support chat, help centers).
-   5. Personalized multimodal travel planning and recommendation systems.
-   6. Video+text based multimodal recommendations in media and entertainment domains.
-4. **User-centric design principles for MMSR interfaces**
-   1. Designing user-friendly interfaces that support multimodal search.
-   2. Methods for evaluating the usability of MMSR systems.
-   3. Ensuring MMSR interfaces are accessible to users with disabilities.
-   4. Visualizations and interactive feedback mechanisms for multimodal search refinement.
-   5. A/B testing strategies specific to multimodal search UI/UX improvements.
-5. **Ethical and Privacy Considerations of MMSR**
-   1. Identifying and mitigating biases in multimodal algorithms.
-   2. Ensuring transparency in how multimodal results are generated and presented.
-   3. Approaches for obtaining and managing user consent for using user data.
-   4. User perception studies of trust and explainability in multimodal search systems.
-   5. Privacy-preserving multimodal modeling: federated learning and differential privacy for MMSR.
-6. **Modeling for MMSR**
-   1. Multi-modal representation learning.
-   2. Utilizing pre-trained multimodal LLMs.
-   3. Dimensionality reduction techniques to manage multimodal complexity.
-   4. Fine-tuning pre-trained vision-language models.
-   5. Developing and standardizing metrics to evaluate the performance of MMSR models.
-   6. Alignment challenges in multimodal embeddings across diverse modalities.
+---
 
-#### Submission Instructions
+## Keynote Speakers
 
-All papers will be peer reviewed (single-blind) by the program committee and judged by their relevance to the workshop, especially to the main themes identified above, and their potential to generate discussion. Submissions must describe work that is not previously published, not accepted for publication elsewhere, and not currently under review elsewhere. All submissions must be in English. We do not accept anonymous submissions.
+<div style="margin-top: 3rem;margin-bottom: 4rem;">
 
-- Long papers: 6-8 pages excluding references
-- Short papers: 3-5 pages excluding references
-- Submissions should be in IEEE 2-column conference format ([https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html))
+  <div style="display: flex; align-items: center; margin-bottom: 3rem;">
+    <img src="assets/img/senjuti.jpg" alt="Senjuti Basu Roy" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 1rem;">
+    <div>
+      <strong><a href="https://www.linkedin.com/in/senjuti-basu-roy-a7217513/" style="text-decoration: none;color: black;">Prof. Senjuti Basu Roy</a></strong> is an Associate Professor and Director of the Big Data Analytics Lab (BDAL) at the New Jersey Institute of Technology, NJ.
+    </div>
+  </div>
 
-**Submissions to MMSR '25 should be made through the workshop's submission portal**: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25)
+  <div style="display: flex; align-items: center; margin-bottom: 3rem;">
+    <img src="assets/img/chuxu.jpg" alt="Chuxu Zhang" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 1rem;">
+    <div>
+      <strong><a href="http://linkedin.com/in/chuxu-zhang-22504878/" style="text-decoration: none;color: black;">Prof. Chuxu Zhang</a></strong> is an Associate Professor and Director of the MINDS Labs at the University of Connecticut, CT.
+    </div>
+  </div>
 
-- Please note that at least one author of each accepted paper must register for the workshop.
-- All accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
-- Non-archival submissions are not allowed, i.e., all accepted papers will be included and published in the proceedings.
+</div>
+
+
+
 
 ## Organizers
 

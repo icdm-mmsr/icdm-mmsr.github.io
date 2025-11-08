@@ -8,6 +8,8 @@ author: For queries, please reach out to icdm-mmsr-organizers@googlegroups.com
 ###############################################
 navbar-links:
   Home: "index"
+  Schedule: "index#schedule"
+  Call for Papers: "cfp"
   Accepted Papers: "accepted"
   Organizers: "organizers"
   MMSR'24:
