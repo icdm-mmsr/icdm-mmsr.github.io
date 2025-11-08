@@ -10,23 +10,11 @@ Multimodal search and recommendation (MMSR) systems are at the forefront of mode
 
 MMSR will be a **half-day** workshop at [ICDM 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html). The workshop will be held on **November 12, 2025** in **Washington DC, USA**. The workshop will explore the latest advancements, challenges, and applications of multimodal search and recommendations.
 
-## Important Dates
-
-{: .box-note}
-All deadlines are at 23: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zones/aoe/)
-
-| Task                                                                                                      | Deadline              |
-| --------------------------------------------------------------------------------------------------------- | --------------------- |
-| [Paper submission deadline](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25) | September 1, 2025 |
-| Notification of acceptance                                                                                | September 15, 2025    |
-| Camera Ready Version of Papers Due                                                                        | September 25, 2025    |
-| **MMSR '25 Workshop**                                                                                         | **November 12, 2025 8.30 AM EST - 12.30 PM EST**     |
-
 ## Schedule
 
 | Time | Session Details |
 | ---- | ---------------- |
-| 8:30 - 8:35 | **Opening Remarks**<br>Welcome to ISIR-eCom & MMSR |
+| 8:30 - 8:35 | **Opening Remarks**<br>Welcome to MMSR & ISIR-eCom  |
 | 8:35 - 8:45 | **Virtual Talk 1: UNION: A Lightweight Target Representation for Efficient Image-Guided Retrieval with Optional Textual Queries**<br>Authors: Hoang-Bao Le, Allie Tran, Binh T. Nguyen, Liting Zhou, Cathal Gurrin |
 | 8:45 - 8:55 | **Virtual Talk 2: NoiseStat: A Lightweight Diagnostic Framework for Retrieval Robustness under Noise**<br>Authors: Bodhisatta Maiti, Debshree Chowdhury |
 | 8:55 - 9:05 | **Virtual Talk 3: Enhancing Product Recommendations with Multi-Modal LLMs**<br>Authors: Babaniyi Olaniyi |
@@ -96,3 +84,15 @@ All deadlines are at 23: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zone
   </div>
 
 </div>
+
+## Important Dates
+
+{: .box-note}
+All deadlines are at 23: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zones/aoe/)
+
+| Task                                                                                                      | Deadline              |
+| --------------------------------------------------------------------------------------------------------- | --------------------- |
+| [Paper submission deadline](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S25) | September 1, 2025 |
+| Notification of acceptance                                                                                | September 15, 2025    |
+| Camera Ready Version of Papers Due                                                                        | September 25, 2025    |
+| **MMSR '25 Workshop**                                                                                         | **November 12, 2025 8.30 AM EST - 12.30 PM EST** South American A |
